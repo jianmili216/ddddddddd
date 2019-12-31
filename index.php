@@ -1,3 +1,3 @@
 <?php
 
-echo "1q21";
+echo "nihao  woshi shui ";
