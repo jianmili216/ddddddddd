@@ -1,3 +1,3 @@
 <?php
 
-echo "nihao  woshi shui ";
+echo "你好 咖斗  ";
